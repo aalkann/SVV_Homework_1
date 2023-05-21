@@ -4,7 +4,7 @@
  * Surname : Alkan
  * Course Name : Software Verification And Validation
  * Homework Number : 1
- * Repository Address: https://github.com/ahmetmurat21/SVV_Homework_1/blob/master/src/test/java/CalculatorTest.java
+ * Repository Address: https://github.com/ahmetmurat21/SVV_Homework_1
  */
 
 import org.junit.jupiter.api.DisplayName;
